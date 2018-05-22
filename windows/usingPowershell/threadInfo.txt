@@ -1,0 +1,9 @@
+\Thread(*)\Context Switches/sec
+\Thread(*)\% Processor Time
+\Thread(*)\% User Time
+\Thread(*)\% Privileged Time
+\Thread(*)\Elapsed Time
+\Thread(*)\Thread State
+\Thread(*)\Thread Wait Reason
+\Thread(*)\ID Process
+\Thread(*)\ID Thread

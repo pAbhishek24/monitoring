@@ -1,0 +1,10 @@
+\Network Inspection System\Average inspection latency (sec/bytes) 
+\Network Interface(*)\Bytes Received/sec
+\Network Interface(*)\Bytes Sent/sec
+\Network Interface(*)\Bytes Total/sec
+\Network Interface(*)\Current Bandwidth
+\Network Interface(*)\Output Queue Length
+\Network Interface(*)\Packets Outbound Errors
+\Network Interface(*)\Packets Received/sec
+\Network Interface(*)\Packets Sent/sec
+\Network Interface(*)\Packets/sec

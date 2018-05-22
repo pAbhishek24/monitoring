@@ -1,0 +1,5 @@
+\Process(*)\% Privileged Time
+\Process(*)\% Processor Time
+\Process(*)\User Time
+\Process(*)\Handle Count
+\Process(*)\Thread Count

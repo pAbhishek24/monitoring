@@ -1,0 +1,11 @@
+\Memory\% Committed Bytes In Use
+\Memory\Available MBytes
+\Memory\Commit Limit
+\Memory\Committed Bytes
+\Memory\Pages Input/sec
+\Memory\Pages Output/sec
+\Memory\Pages/sec
+\Memory\Pool Nonpaged Bytes
+\Memory\Pool Paged Bytes
+\Memory\Pool Paged Resident Bytes
+\Memory\System Cache Resident Bytes
